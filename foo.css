@@ -1,0 +1,8 @@
+﻿/**
+ * 文件：components/foo/foo.css
+ * @require font-awesome
+ */
+
+.foo .fa {
+  font-size: 30px;
+}
