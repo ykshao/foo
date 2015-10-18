@@ -3,4 +3,4 @@
  */
 
 var b = require('b');
-export.name = b;
+exports.name = b;

@@ -1,9 +1,9 @@
- {
-   "name": "foo",
-   "version": "0.0.1",
-   "description": "foo module",
-   "dependencies": {
-     "FortAwesome/Font-Awesome": "4.1.0",
-     "ftlabs/fastclick": "1.0.2"
-   }
- }
+{
+  "name": "foo",
+  "version": "0.0.1",
+  "description": "foo module",
+  "dependencies": {
+    "FortAwesome/Font-Awesome": "4.4.0",
+    "ftlabs/fastclick": "1.0.3"
+  }
+}
